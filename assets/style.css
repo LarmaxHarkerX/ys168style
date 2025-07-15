@@ -5,9 +5,9 @@
 
 #dzx {
   opacity: 0.7 !important;
-  background-color: #a8a8a8 !important; /* 灰色背景 */
+  background-color: #f0f0f0 !important; /* 灰色背景 */
   border: none !important; /* 移除边框 */
-  border-radius: 8px !important; /* 添加圆角 */
+  border-radius: 8px !important; /* 圆角效果 */
 }
 
 .lynrc {
@@ -16,11 +16,15 @@
 
 .fgg5 {
   background-color: transparent !important;
-  background-image: url("https://cdn.jsdelivr.net/gh/LarmaxHarkerX/ys168style@main/media/01.jpg") !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/LarmaxHarkerX/ys168style@main/media/01.jpg") !important; /* 替换后的图片链接 */
   background-size: cover !important;
   background-position: center !important;
 }
 
 .ystop {
   display: none !important;
+}
+
+#kj_right {
+  border-radius: 8px !important; /* 为 kj_right 添加圆角 */
 }
