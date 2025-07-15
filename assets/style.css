@@ -1,0 +1,26 @@
+/* custom-styles.css */
+.ta_wjq {
+  display: none !important;
+}
+
+#dzx {
+  opacity: 0.7 !important;
+  background-color: #a8a8a8 !important; /* 灰色背景 */
+  border: none !important; /* 移除边框 */
+  border-radius: 8px !important; /* 添加圆角 */
+}
+
+.lynrc {
+  display: none !important;
+}
+
+.fgg5 {
+  background-color: transparent !important;
+  background-image: url("https://cdn.jsdelivr.net/gh/LarmaxHarkerX/ys168style@main/01.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.ystop {
+  display: none !important;
+}
